@@ -1,8 +1,7 @@
 AngularJS Madlibs
+Unit 1 Lesson 3 Assignment 3 for Thinkful course
 
-Note to self-
-Used yeoman webapp generator to scaffold this (https://github.com/yeoman/generator-webapp)
-
+Refactor version #2 - includes controller
 
 Getting Started-
 Run grunt for building and grunt serve for preview*.
